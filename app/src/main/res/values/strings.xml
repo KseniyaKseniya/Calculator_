@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="inPutFirst">Первое число</string>
+    <string name="inPutFirst1">введите первое число</string>
+    <string name="inPutSecond2">введите второе чиcло</string>
+    <string name="result">результат</string>
+</resources>
